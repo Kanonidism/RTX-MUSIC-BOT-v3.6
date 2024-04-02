@@ -44,7 +44,7 @@ module.exports = {
           { name: '🔀 Shuffle', value: 'Shuffle the songs in queue' },
           { name: '📃 playlist', value: 'manage the playlists' }
         )
-        .setImage(`https://cdn.discordapp.com/attachments/1004341381784944703/1165201249331855380/RainbowLine.gif?ex=654f37ba&is=653cc2ba&hm=648a2e070fab36155f4171962e9c3bcef94857aca3987a181634837231500177&`); 
+        .setImage(`https://media.discordapp.net/attachments/1224814900103352503/1224815420704424008/image.png?ex=661edd40&is=660c6840&hm=41e99237a3e810cf4d61c3d8f0b4423a7244bae8bbc0fa113ca1b2dd1121f5b6&=&format=webp&quality=lossless&width=1920&height=636`); 
 
       const basicCommandsEmbed = new EmbedBuilder()
         .setColor(client.config.embedColor)
@@ -57,7 +57,7 @@ module.exports = {
            { name: '🎵 Now Playing', value: 'Display the currently playing song information' },
           { name: '🔊 Volume', value: 'Adjust the music volume [ hearing at high volumes is risky ]' },
         ) 
-       .setImage('https://cdn.discordapp.com/attachments/1004341381784944703/1165201249331855380/RainbowLine.gif?ex=654f37ba&is=653cc2ba&hm=648a2e070fab36155f4171962e9c3bcef94857aca3987a181634837231500177&')
+       .setImage('https://media.discordapp.net/attachments/1224814900103352503/1224815420704424008/image.png?ex=661edd40&is=660c6840&hm=41e99237a3e810cf4d61c3d8f0b4423a7244bae8bbc0fa113ca1b2dd1121f5b6&=&format=webp&quality=lossless&width=1920&height=636')
       const button1 = new ButtonBuilder()
         .setLabel('MADE BY KAPPA')
         .setURL('https://www.youtube.com/watch?v=zrNloK9b1ro')
@@ -96,7 +96,7 @@ module.exports = {
   ╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝          
 
    
-   # MADE BY RTX!! FEEL FREE TO USE ANY PART OF CODE
+   # MADE BY KAPPA!! FEEL FREE TO USE ANY PART OF CODE
    ## FOR HELP CONTACT ME ON DISCORD
    ## Contact    [ DISCORD SERVER :  https://discord.gg/AGw5UHTz ]
   
